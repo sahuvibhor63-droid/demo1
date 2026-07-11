@@ -1,2 +1,2 @@
 # demo1
-just tutorial
+just tutorials
